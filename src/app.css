@@ -1,0 +1,10 @@
+.middle {
+  display: flex;
+}
+
+.menu {
+  flex: 1;
+}
+.main {
+  flex: 9;
+}
